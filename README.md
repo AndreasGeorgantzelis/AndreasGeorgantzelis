@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-📌Thessaloniki, Greece.
+📌I'm from Thessaloniki, Greece.
 
-📎Working as a Web Developer.
+📎I'm currently Working as a Web Developer.
 
-📚Studying Computer Science at Auth.
+📚I'm also Studying Computer Science at Auth.
